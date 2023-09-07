@@ -176,14 +176,19 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
-  line-height: 40px;
+  line-height: 44px;
   border-radius: 50px;
   border: 3px solid #FFF;
+  transition: 0.2s ease-in;
+}
+
+.footer__contact-button:hover {
+  background-color: white;
+  color: #1E4776;
 }
 
 .footer__contact-info {
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin: 15px 0;
   color: #7E9EC9;
   font-weight: 400;
 }
