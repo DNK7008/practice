@@ -1,4 +1,4 @@
 # practice
 
 # portfolio-webacademy:
-https://github.com/DNK7008/practice/portfolio-webacademy
+https://dnk7008.github.io/practice/portfolio-webacademy
